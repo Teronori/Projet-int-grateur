@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir" : "dist",
+        "noEmitOnError" : true, // Permet d'empêcher le code d'être traduit en cas d'erreur.
+    },
+    "files": [
+        "src/myfile.ts",
+    ]
+
+}
